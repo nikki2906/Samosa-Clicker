@@ -2,7 +2,7 @@
 
 Submitted by: **Nhi Huynh**
 
-This web app: **Uses the ApiFlash API to take screenshots of a given website with a variety of parameters such as height, width, no ads, no cookie banners, image format, and URL. It also displays the current screenshot, and a gallery of past screenshots. In the top right corner, it displays how many API calls remain with the API key being used.**
+This web app: **Based on an incremental game called Cookie Clicker. The goal of the game is to produce as many cookies by clicking on the Big Cookie as you can. However, in this version, instead of clicking a cookie, the user will be selecting a delicious samosa.**
 
 Time spent: **3** hours spent in total
 
